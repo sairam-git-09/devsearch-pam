@@ -18,9 +18,9 @@ djangorestframework_simplejwt==5.5.1
 djhtml==3.0.10
 executing==2.2.1
 filelock==3.20.0
-gunicorn==20.1.0
-httpcore==0.18.2
-httpx==0.24.1
+gunicorn
+httpcore
+httpx
 identify==2.6.15
 ipykernel==7.0.1
 ipython==9.6.0
