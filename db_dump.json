@@ -1,0 +1,1443 @@
+[
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$tWmFsGqWN3o3Leq5q5nupa$LXjM4Z9HbqL2LbS8Ve6IuhH8FvvaKHBMwv3Fvl9hXkY=",
+    "last_login": "2025-11-24T07:21:25.736Z",
+    "is_superuser": true,
+    "username": "Rajeev",
+    "first_name": "Rajeev",
+    "last_name": "Pamu",
+    "email": "rajeevpamu@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-11-13T11:37:25Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Wu188Z2NMgo0tJwBtaaVtw$Z1QKAl2zqiyS/SBDcesVddRMz55xRRJSR+uBGbVxeIo=",
+    "last_login": "2025-11-24T08:55:40.230Z",
+    "is_superuser": true,
+    "username": "Hemanth",
+    "first_name": "Hemanth",
+    "last_name": "Kumar",
+    "email": "hemanthkumar@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-11-13T11:58:55Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$V9SJiSlv3BKg2mUVgtDWKy$C7NWtOyST7cDbt3OuNRLZzRJhThYrXQxB7ChLyNfHL4=",
+    "last_login": "2025-11-18T22:00:13.185Z",
+    "is_superuser": true,
+    "username": "rahulkumar",
+    "first_name": "Rahul Kumar",
+    "last_name": "",
+    "email": "rahul.kumar@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-11-18T22:00:12.469Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$heeAMOmCk4Hz8e8IZvaqHX$Go1cS3O7G0OboRAjG+ANqe9YoU7QAiN4aEVX7mPCNJM=",
+    "last_login": "2025-11-24T08:37:18.519Z",
+    "is_superuser": true,
+    "username": "anjalipatel",
+    "first_name": "Anjali Patel",
+    "last_name": "",
+    "email": "anjali.patel@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-11-18T22:03:44.222Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$wFQEL3H63MJ72BZLijqrn4$s55zT92dRPaSgM+n2quRYAy7w6+JbO9KLQQG+KMv+bY=",
+    "last_login": "2025-11-20T21:12:57.763Z",
+    "is_superuser": true,
+    "username": "vikramsingh",
+    "first_name": "Vikram Singh",
+    "last_name": "",
+    "email": "vikram.singh@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-11-18T22:06:33.899Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$lvWMnx7nCA1KGPAbLiWJG2$snf28+sYoYxFU9vFRHJ9mk7i4KiW0WVBQidkxH3SUWE=",
+    "last_login": "2025-11-18T22:14:26.627Z",
+    "is_superuser": true,
+    "username": "priyasharma",
+    "first_name": "Priya Sharma",
+    "last_name": "",
+    "email": "priya.sharma@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-11-18T22:14:25.865Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4pamer3nel7j3xxoaejzpyz5boltqr7p",
+  "fields": {
+    "session_data": "e30:1vMPzO:P3AVdjdyH0Y_c216vpoDetCSG8faA_ZuDJoA0JfdHzw",
+    "expire_date": "2025-12-05T12:11:46.489Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "cbal27ef2bs1y7e6vl57fli35nhnjmvw",
+  "fields": {
+    "session_data": ".eJxVjDsOwyAQBe9CHSE-a8Ap0_sMaIElOIlAMnYV5e6xJRdJOzPvvZnHbS1-67T4ObErk-zyywLGJ9VDpAfWe-Ox1XWZAz8SftrOp5bodTvbv4OCvexrgBHloCBFZUkr54TW2kogctFpGyIMEoPKyQqShnI20aETozWQ7Q7Z5wvBdjdP:1v08N7:rDhYSnlhqhNmDXkMMs4z5L-ny35Xvn_-q7f2LYq4a-M",
+    "expire_date": "2025-10-05T00:56:09.871Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "eey2r81n4cpg6mm6ed31eq0qxdu3mp5s",
+  "fields": {
+    "session_data": ".eJxVjMsOgjAQAP9lz6ZpS19w9O43NLvtrqAGEgon478bEg56nZnMGzLu25j3xmueKgxgPFx-IWF58nyY-sD5vqiyzNs6kToSddqmbkvl1_Vs_wYjthEG6EhHTWSZTYi--OQCI0vUJhZBjb2Q80FEUghsWXrrfPSppmg7V3sDny8W6jgg:1vMOT7:rbMnJLxFS-PbhMewV9-USqeI3qxGASHuaT2YYI0pkB4",
+    "expire_date": "2025-12-05T10:34:21.991Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "g4oug97rq1vk1ololz6gwuh93ny04t40",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQAP9lz4bwKkt79O43kAUWqRqalPZk_HfTpAe9zkzmDYH2rYa98xrmDBMouPyySOnJ7RD5Qe2-iLS0bZ2jOBJx2i5uS-bX9Wz_BpV6hQmsHUkN2uakkY32XhpjUFlmn7zBmOygKOqSUbJyXIpLnrwc0dmCGSV8vsF2N08:1vBxIY:WRu0L5Ba2EJtXb79dS-1_oYTim-j8QvfuBBtbv8VMAM",
+    "expire_date": "2025-11-06T15:32:18.610Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "h3fyjbtvpvrwwia0hjackdy4pocn9zi7",
+  "fields": {
+    "session_data": ".eJxVjDsOwyAQBe9CHSE-a8Ap0_sMaIElOIlAMnYV5e6xJRdJOzPvvZnHbS1-67T4ObErk-zyywLGJ9VDpAfWe-Ox1XWZAz8SftrOp5bodTvbv4OCvexrgBHloCBFZUkr54TW2kogctFpGyIMEoPKyQqShnI20aETozWQ7Q7Z5wvBdjdP:1v0wSW:AOwdndpRvZrVVXHVTUkLSqIN7Hc82CCjyyUEe7hbDFI",
+    "expire_date": "2025-10-07T06:25:04.335Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "j97vkrwafjbr3w95hlk1g0j7rmlf5loi",
+  "fields": {
+    "session_data": ".eJxVjDsOwyAQBe9CHSE-a8Ap0_sMaIElOIlAMnYV5e6xJRdJOzPvvZnHbS1-67T4ObErk-zyywLGJ9VDpAfWe-Ox1XWZAz8SftrOp5bodTvbv4OCvexrgBHloCBFZUkr54TW2kogctFpGyIMEoPKyQqShnI20aETozWQ7Q7Z5wvBdjdP:1v0wTB:-LVfbHxg67yjWOEc6OVXveVRQhWM4pGsrPh3xJsudeo",
+    "expire_date": "2025-10-07T06:25:45.610Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jx1qk4801a7obv4fvzl1evbarzmliuql",
+  "fields": {
+    "session_data": ".eJxVjDsOwyAQBe9CHSE-a8Ap0_sMaIElOIlAMnYV5e6xJRdJOzPvvZnHbS1-67T4ObErk-zyywLGJ9VDpAfWe-Ox1XWZAz8SftrOp5bodTvbv4OCvexrgBHloCBFZUkr54TW2kogctFpGyIMEoPKyQqShnI20aETozWQ7Q7Z5wvBdjdP:1v10WI:G8zf0N-uU__Z6C0ztnsRULFcTwJZvt5AXSrdg3TpLWY",
+    "expire_date": "2025-10-07T10:45:14.243Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "na9ryfmxexmne2uvb75jcnlduswhigq0",
+  "fields": {
+    "session_data": ".eJxVjDsOwyAQBe9CHSE-a8Ap0_sMaIElOIlAMnYV5e6xJRdJOzPvvZnHbS1-67T4ObErk-zyywLGJ9VDpAfWe-Ox1XWZAz8SftrOp5bodTvbv4OCvexrgBHloCBFZUkr54TW2kogctFpGyIMEoPKyQqShnI20aETozWQ7Q7Z5wvBdjdP:1uzj61:cDl1A7mk9d2fM_dOyhvUz0juCj99AipHadMyeQVcRJw",
+    "expire_date": "2025-10-03T21:56:49.731Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "tks5du2ejpbzsqfqyjzp0kd0wgbmm2iw",
+  "fields": {
+    "session_data": ".eJxVjDsOwyAQBe9CHSE-a8Ap0_sMaIElOIlAMnYV5e6xJRdJOzPvvZnHbS1-67T4ObErk-zyywLGJ9VDpAfWe-Ox1XWZAz8SftrOp5bodTvbv4OCvexrgBHloCBFZUkr54TW2kogctFpGyIMEoPKyQqShnI20aETozWQ7Q7Z5wvBdjdP:1uw9fJ:nKYzRHaV6Hj32WqviM9iSUo3wuQmMWal4D12QHopGLI",
+    "expire_date": "2025-09-24T01:30:29.944Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vu8glqkmfu2kkko2yjz22ytnu5zr0561",
+  "fields": {
+    "session_data": ".eJxVjLsOwjAMAP_FM4pSHPLoyM43RI6dkAJKpaadEP-OKnWA9e50b4i0rTVuPS9xEhjBwumXJeJnbruQB7X7rHhu6zIltSfqsF3dZsmv69H-DSr1CiNkzyEVFLYY2KDz7py188VZh8zIPujCA5GwD4KJGE1ygw7lgkFMRvh8AfgNOFE:1vNSMG:AVjl-t8tnlFEEZZmEoPLk6X5kQfTdCmJsB9Y-ix4uB0",
+    "expire_date": "2025-12-08T08:55:40.235Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "x6fuzby2ekuog9ydnmr0iqgvz2t27kf7",
+  "fields": {
+    "session_data": ".eJxVjDsOwyAQBe9CHSE-a8Ap0_sMaIElOIlAMnYV5e6xJRdJOzPvvZnHbS1-67T4ObErk-zyywLGJ9VDpAfWe-Ox1XWZAz8SftrOp5bodTvbv4OCvexrgBHloCBFZUkr54TW2kogctFpGyIMEoPKyQqShnI20aETozWQ7Q7Z5wvBdjdP:1uu0yL:o0lGgLq3FsfMZdzkfCNTy7_NeuVvC0cCnBozqFsjND8",
+    "expire_date": "2025-09-18T03:49:17.803Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "0c4c00b0-b83d-40e2-b2f8-0353572cfde7",
+  "fields": {
+    "owner": "530555fb-0da7-473c-ac65-0f5495c161e8",
+    "title": "StreamBox",
+    "desc": "Seamless streaming experience with adaptive quality, live TV channels, and exclusive original content. Available on all your devices with cloud DVR support.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/streambox",
+    "source_link": "/source/streambox",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:27:39.890Z",
+    "tags": [
+      "7282a475-1a2b-4b9d-8c3b-c6557daa8bea",
+      "c1d5caef-3d1f-430c-bbc6-99a76d3c3c43",
+      "e13c92f6-7d89-461e-90e0-71647ca74090"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "0f500805-cf78-4515-a66a-a124ce742e50",
+  "fields": {
+    "owner": "d6f2213e-85d3-4cca-956d-87d123b07e90",
+    "title": "MovieVault",
+    "desc": "Your personal movie collection app. Organize, rate, and track all your favorite films. Features include wishlists, watch history, and social sharing capabilities.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/movievault",
+    "source_link": "/source/movievault",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:08:30.284Z",
+    "tags": [
+      "468830ec-4a75-454a-823c-6ff0c133be91",
+      "a58d7c43-bd66-417e-85ba-c846f0eae49e",
+      "e13c92f6-7d89-461e-90e0-71647ca74090"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "130ada16-b768-475f-8986-ffc3ed70d11c",
+  "fields": {
+    "owner": "7fa0634d-78c1-4113-8a6c-35862f97dc93",
+    "title": "WatchNow",
+    "desc": "Instant access to thousands of movies and shows. Start watching in seconds with our lightning-fast streaming technology and zero buffering guarantee.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/watchnow",
+    "source_link": "/source/watchnow",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:37:21.825Z",
+    "tags": [
+      "468830ec-4a75-454a-823c-6ff0c133be91",
+      "7c3d0ab5-cbf2-4f49-86b4-f513614720af",
+      "8d50ad89-4884-4bcc-912c-4536391c2ddf"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "13dbd23f-35dc-426e-adef-efb7f70f46a2",
+  "fields": {
+    "owner": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "title": "Flipkart",
+    "desc": "A collaborative task management application with real-time updates. Features include task creation, assignment, priority levels, deadlines, file attachments, comments, and team collaboration tools. Built with React frontend and Django REST API backend.",
+    "featured_image": "flipkar.png",
+    "demo_link": "https://taskmanager.example.com",
+    "source_link": "https://github.com/example/task-manager",
+    "vote_total": 3,
+    "vote_ratio": 66,
+    "created": "2025-11-13T11:48:06.795Z",
+    "tags": [
+      "2e3c2ba0-2b61-453e-82b6-08044eba9356",
+      "6281b86d-6209-4237-9c16-4ed866a1e012"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "1556649c-1a3a-4220-84ee-b522062e444a",
+  "fields": {
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "title": "eBay",
+    "desc": "Global e-commerce leader connecting millions of buyers and sellers. Offers a marketplace for consumer electronics, fashion, home goods, and collectibles with auction-style and fixed-price listings.",
+    "featured_image": "ebay.webp",
+    "demo_link": "https://www.ebay.com",
+    "source_link": "https://github.com/ebay",
+    "vote_total": 1,
+    "vote_ratio": 100,
+    "created": "2025-11-13T12:31:27.875Z",
+    "tags": [
+      "042d36fb-28e5-443b-b2ac-e0540e6166a5",
+      "e13c92f6-7d89-461e-90e0-71647ca74090"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "331b30eb-828f-4751-b65f-1b27ea9c1cc6",
+  "fields": {
+    "owner": "530555fb-0da7-473c-ac65-0f5495c161e8",
+    "title": "FilmFlix",
+    "desc": "A dynamic film streaming app featuring the latest blockbusters, indie films, documentaries, and international cinema. Your gateway to unlimited cinematic experiences.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/filmflix",
+    "source_link": "/source/filmflix",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:55:23.014Z",
+    "tags": [
+      "1087c485-b029-4853-ac5a-6e5f8c763cb8",
+      "2e3c2ba0-2b61-453e-82b6-08044eba9356",
+      "2ebe2762-b64f-4380-9be5-f2c0f3f6d427"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "40f7a60f-7c59-48fa-8d5a-f5c4402866a5",
+  "fields": {
+    "owner": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "title": "Etsy",
+    "desc": "Online marketplace for handmade, vintage items, and craft supplies. Connects creative entrepreneurs with buyers seeking unique, personalized products and one-of-a-kind items.",
+    "featured_image": "etsy.webp",
+    "demo_link": "https://www.etsy.com",
+    "source_link": "https://github.com/etsy",
+    "vote_total": 3,
+    "vote_ratio": 66,
+    "created": "2025-11-13T12:32:56.442Z",
+    "tags": [
+      "38ca8dd7-1fb3-4ff8-9d90-45c8e61d703e",
+      "6a62396c-a989-48e7-b2e2-5b0cb54f8187",
+      "a6ee68e7-79fa-4e46-b20a-0d8281fbfda4"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "548d6fbd-483c-4ed1-ae14-82deb398271b",
+  "fields": {
+    "owner": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "title": "Amazon",
+    "desc": "A full-featured e-commerce platform built with Django and React. Includes user authentication, product catalog, shopping cart, payment integration, and order management system.",
+    "featured_image": "amazon.webp",
+    "demo_link": "https://demo-ecommerce.example.com",
+    "source_link": "https://github.com/example/ecommerce-platform",
+    "vote_total": 6,
+    "vote_ratio": 83,
+    "created": "2025-11-13T11:45:58.792Z",
+    "tags": [
+      "2e3c2ba0-2b61-453e-82b6-08044eba9356",
+      "e858eb2a-4318-4ff0-8d54-63622eb8b9b1"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "5618654d-db87-4ea4-b1ac-15e9dd42bcde",
+  "fields": {
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "title": "MediaFlow",
+    "desc": "A seamless media streaming platform offering unlimited content across all genres. Features adaptive streaming, cloud DVR, and multi-profile family sharing for entertainment anytime.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/mediaflow",
+    "source_link": "/source/mediaflow",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:51:13.847Z",
+    "tags": [
+      "042d36fb-28e5-443b-b2ac-e0540e6166a5",
+      "e13c92f6-7d89-461e-90e0-71647ca74090",
+      "f5a156ec-f779-431d-9d78-2ffa976e6356"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "575ab3dd-6f61-44dd-995f-edd1ebbb8996",
+  "fields": {
+    "owner": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "title": "FlixHub",
+    "desc": "Stream unlimited movies and TV shows on FlixHub. Features include smart recommendations, family profiles, 4K streaming, and cross-platform support.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/flixhub",
+    "source_link": "/source/flixhub",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:05:35.814Z",
+    "tags": [
+      "1087c485-b029-4853-ac5a-6e5f8c763cb8",
+      "45a3ad46-dc80-4023-9804-d9d4b4ae53fc",
+      "e13c92f6-7d89-461e-90e0-71647ca74090"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "6245c78c-221f-4d96-b489-a7dc8896d399",
+  "fields": {
+    "owner": "d6f2213e-85d3-4cca-956d-87d123b07e90",
+    "title": "ScreenPlay",
+    "desc": "A cinematic streaming service with award-winning films, exclusive director cuts, behind-the-scenes content, and screenplay insights for true film lovers.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/screenplay",
+    "source_link": "/source/screenplay",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:53:51.576Z",
+    "tags": [
+      "1087c485-b029-4853-ac5a-6e5f8c763cb8",
+      "2ebe2762-b64f-4380-9be5-f2c0f3f6d427",
+      "65641e75-8b9d-44d3-8e13-b97acf48aa33"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "782ece94-1965-4cdb-9a49-91a6a591a893",
+  "fields": {
+    "owner": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "title": "Shopify",
+    "desc": "A leading cloud-based, multi-channel commerce platform designed for small and medium-sized businesses. Merchants can use the software to design, set up, and manage their stores across multiple sales channels.",
+    "featured_image": "shopify.png",
+    "demo_link": "https://www.shopify.com",
+    "source_link": "https://github.com/Shopify",
+    "vote_total": 3,
+    "vote_ratio": 100,
+    "created": "2025-11-13T12:29:29.788Z",
+    "tags": [
+      "1087c485-b029-4853-ac5a-6e5f8c763cb8",
+      "25e934ea-7bf4-4cee-a832-21ae4d6913ff",
+      "45a3ad46-dc80-4023-9804-d9d4b4ae53fc",
+      "65641e75-8b9d-44d3-8e13-b97acf48aa33"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "7c8664c4-48b0-4846-a287-a4ae80295dee",
+  "fields": {
+    "owner": "7fa0634d-78c1-4113-8a6c-35862f97dc93",
+    "title": "BingeBox",
+    "desc": "The ultimate binge-watching platform with entire series collections, personalized queues, auto-play features, and seamless episode transitions. Your perfect weekend companion.",
+    "featured_image": "default_P7fk1Qg.jpg",
+    "demo_link": "/demos/bingebox",
+    "source_link": "/source/bingebox",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:57:13.420Z",
+    "tags": [
+      "2e3c2ba0-2b61-453e-82b6-08044eba9356",
+      "52f9284f-2786-4c7f-8cf0-1a0bd3ea9896",
+      "cbfee315-79f4-4220-8715-db4e86f3acfa"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "83c76ff3-a4b0-4b99-a0ed-f24abf1a67de",
+  "fields": {
+    "owner": "2d70f506-38df-467d-b10d-cd6f033a6d2f",
+    "title": "ReelTime",
+    "desc": "A real-time cinema experience with live event streaming, interactive features, and synchronized global viewing experiences for movie premieres and special events.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/reeltime",
+    "source_link": "/source/reeltime",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:50:10.234Z",
+    "tags": [
+      "52f9284f-2786-4c7f-8cf0-1a0bd3ea9896",
+      "7c3d0ab5-cbf2-4f49-86b4-f513614720af",
+      "e858eb2a-4318-4ff0-8d54-63622eb8b9b1"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "b0553d63-d7ae-4b85-b1a4-a34b36385d7e",
+  "fields": {
+    "owner": "530555fb-0da7-473c-ac65-0f5495c161e8",
+    "title": "StreamBox",
+    "desc": "Seamless streaming experience with adaptive quality, live TV channels, and exclusive original content. Available on all your devices with cloud DVR support.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/streambox",
+    "source_link": "/source/streambox",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:32:40.509Z",
+    "tags": [
+      "1087c485-b029-4853-ac5a-6e5f8c763cb8",
+      "2ebe2762-b64f-4380-9be5-f2c0f3f6d427",
+      "e13c92f6-7d89-461e-90e0-71647ca74090"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "d37ee05f-4d7d-4f76-b752-0cce1dab0a45",
+  "fields": {
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "title": "CineStream",
+    "desc": "A premium movie streaming platform featuring HD content, personalized watchlists, multi-device sync, and offline downloads. Perfect for movie enthusiasts.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/cinestream",
+    "source_link": "/source/cinestream",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T10:02:23.272Z",
+    "tags": [
+      "042d36fb-28e5-443b-b2ac-e0540e6166a5",
+      "45a3ad46-dc80-4023-9804-d9d4b4ae53fc",
+      "e13c92f6-7d89-461e-90e0-71647ca74090"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "dcffd4af-0314-472d-a5b2-19b37482a12e",
+  "fields": {
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "title": "CinePlay",
+    "desc": "A premium cinema platform combining classic films with modern releases. Experience theatrical quality streaming with Dolby Atmos sound and exclusive premiere access.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/cineplay",
+    "source_link": "/source/cineplay",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T11:10:04.316Z",
+    "tags": [
+      "2e3c2ba0-2b61-453e-82b6-08044eba9356",
+      "6281b86d-6209-4237-9c16-4ed866a1e012",
+      "e858eb2a-4318-4ff0-8d54-63622eb8b9b1"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "e961fa8d-a99d-45cc-9e42-a4654fb50d6d",
+  "fields": {
+    "owner": "d6f2213e-85d3-4cca-956d-87d123b07e90",
+    "title": "MovieNest",
+    "desc": "Your cozy home for movie collections. Build your digital library, create custom playlists, and enjoy personalized recommendations based on your viewing preferences.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/movienest",
+    "source_link": "/source/movienest",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T11:18:24.682Z",
+    "tags": [
+      "1087c485-b029-4853-ac5a-6e5f8c763cb8",
+      "2e3c2ba0-2b61-453e-82b6-08044eba9356",
+      "468830ec-4a75-454a-823c-6ff0c133be91"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "ecbe51db-1971-41cd-9beb-247c307c0201",
+  "fields": {
+    "owner": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "title": "StreamHub",
+    "desc": "Your central hub for all streaming content. Access movies, shows, sports, and news all in one unified platform with intelligent content aggregation.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/streamhub",
+    "source_link": "/source/streamhub",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T11:06:15.172Z",
+    "tags": [
+      "2e3c2ba0-2b61-453e-82b6-08044eba9356",
+      "a54c9f1c-d2bc-4568-8936-a7c01ea87ce3",
+      "a6ee68e7-79fa-4e46-b20a-0d8281fbfda4"
+    ]
+  }
+},
+{
+  "model": "projects.project",
+  "pk": "fe85ad5e-d0ff-4f0f-85d6-480fa4aedbee",
+  "fields": {
+    "owner": "2d70f506-38df-467d-b10d-cd6f033a6d2f",
+    "title": "WatchBox",
+    "desc": "A versatile video platform with watchlists, viewing history, and cross-platform compatibility. Enjoy seamless streaming across all your devices with one account.",
+    "featured_image": "default.jpg",
+    "demo_link": "/demos/watchbox",
+    "source_link": "/source/watchbox",
+    "vote_total": 0,
+    "vote_ratio": 0,
+    "created": "2025-11-19T11:13:55.668Z",
+    "tags": [
+      "2e3c2ba0-2b61-453e-82b6-08044eba9356",
+      "6a62396c-a989-48e7-b2e2-5b0cb54f8187",
+      "a54c9f1c-d2bc-4568-8936-a7c01ea87ce3"
+    ]
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "0c2af1b5-3c69-43aa-92ce-73ec681c9092",
+  "fields": {
+    "project": "13dbd23f-35dc-426e-adef-efb7f70f46a2",
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "body": "Good",
+    "value": "up",
+    "created": "2025-11-20T19:17:38.721Z"
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "24427e77-7e91-4285-a325-62902be6b430",
+  "fields": {
+    "project": "40f7a60f-7c59-48fa-8d5a-f5c4402866a5",
+    "owner": "d6f2213e-85d3-4cca-956d-87d123b07e90",
+    "body": "Great",
+    "value": "up",
+    "created": "2025-11-20T21:13:21.440Z"
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "257efcf9-3ac7-4b50-8166-a36c696dc78c",
+  "fields": {
+    "project": "548d6fbd-483c-4ed1-ae14-82deb398271b",
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "body": "COOL !!\r\n\r\nThe app is user-friendly with intuitive navigation. Tracking orders is seamless, and customer service responds quickly. No need for a new account—just sign in and go.",
+    "value": "up",
+    "created": "2025-11-20T06:08:30.690Z"
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "5706b9d3-f300-4d80-bfcd-f4813b14e0aa",
+  "fields": {
+    "project": "548d6fbd-483c-4ed1-ae14-82deb398271b",
+    "owner": "7fa0634d-78c1-4113-8a6c-35862f97dc93",
+    "body": "Nice work done with this app, save lot of time and effort",
+    "value": "up",
+    "created": "2025-11-20T06:09:56.546Z"
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "7bf4a7f2-7d8c-4d53-bf27-fde4f0253766",
+  "fields": {
+    "project": "548d6fbd-483c-4ed1-ae14-82deb398271b",
+    "owner": "530555fb-0da7-473c-ac65-0f5495c161e8",
+    "body": "",
+    "value": "up",
+    "created": "2025-11-20T06:10:40.864Z"
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "90e11b5a-e485-4986-aa63-6fdaf744876b",
+  "fields": {
+    "project": "40f7a60f-7c59-48fa-8d5a-f5c4402866a5",
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "body": "Nice",
+    "value": "up",
+    "created": "2025-11-20T21:13:49.282Z"
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "a8ee9a33-ba7d-42e9-8939-5e77eaf6b7b7",
+  "fields": {
+    "project": "782ece94-1965-4cdb-9a49-91a6a591a893",
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "body": "Great",
+    "value": "up",
+    "created": "2025-11-20T19:18:53.363Z"
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "c448328e-669b-4e52-86ce-3d6a452b9f90",
+  "fields": {
+    "project": "548d6fbd-483c-4ed1-ae14-82deb398271b",
+    "owner": "2d70f506-38df-467d-b10d-cd6f033a6d2f",
+    "body": "Very Frustrating UI",
+    "value": "down",
+    "created": "2025-11-20T06:08:56.482Z"
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "ce6cb310-5e0e-4ce4-954e-e7e46a3bdd50",
+  "fields": {
+    "project": "548d6fbd-483c-4ed1-ae14-82deb398271b",
+    "owner": "d6f2213e-85d3-4cca-956d-87d123b07e90",
+    "body": "",
+    "value": "up",
+    "created": "2025-11-20T06:10:14.724Z"
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "cfae7262-6b59-45a4-be2a-20f837ce8828",
+  "fields": {
+    "project": "782ece94-1965-4cdb-9a49-91a6a591a893",
+    "owner": "7fa0634d-78c1-4113-8a6c-35862f97dc93",
+    "body": "Nice",
+    "value": "up",
+    "created": "2025-11-20T19:40:51.534Z"
+  }
+},
+{
+  "model": "projects.review",
+  "pk": "f219e272-38b1-4dba-b209-ab73aa2b2ae0",
+  "fields": {
+    "project": "13dbd23f-35dc-426e-adef-efb7f70f46a2",
+    "owner": "7fa0634d-78c1-4113-8a6c-35862f97dc93",
+    "body": "Expensive",
+    "value": "down",
+    "created": "2025-11-20T19:38:47.637Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "042d36fb-28e5-443b-b2ac-e0540e6166a5",
+  "fields": {
+    "name": "Firebase",
+    "created": "2025-11-19T11:37:53.398Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "1087c485-b029-4853-ac5a-6e5f8c763cb8",
+  "fields": {
+    "name": "REST API",
+    "created": "2025-11-19T11:37:07.998Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "25e934ea-7bf4-4cee-a832-21ae4d6913ff",
+  "fields": {
+    "name": "FILTER",
+    "created": "2025-11-24T08:13:46.405Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "2e3c2ba0-2b61-453e-82b6-08044eba9356",
+  "fields": {
+    "name": "python",
+    "created": "2025-09-04T05:27:09.418Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "2ebe2762-b64f-4380-9be5-f2c0f3f6d427",
+  "fields": {
+    "name": "GraphQL",
+    "created": "2025-11-19T11:37:17.513Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "38ca8dd7-1fb3-4ff8-9d90-45c8e61d703e",
+  "fields": {
+    "name": "PostgreSQL",
+    "created": "2025-11-19T11:35:27.996Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "45a3ad46-dc80-4023-9804-d9d4b4ae53fc",
+  "fields": {
+    "name": "FastAPI",
+    "created": "2025-11-19T11:37:34.901Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "468830ec-4a75-454a-823c-6ff0c133be91",
+  "fields": {
+    "name": "AWS",
+    "created": "2025-11-19T11:36:08.113Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "52f9284f-2786-4c7f-8cf0-1a0bd3ea9896",
+  "fields": {
+    "name": "React",
+    "created": "2025-11-19T11:33:14.885Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "556c707d-5205-496c-a941-8b693ba00986",
+  "fields": {
+    "name": "TypeScript",
+    "created": "2025-11-19T11:36:24.010Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "6281b86d-6209-4237-9c16-4ed866a1e012",
+  "fields": {
+    "name": "Django",
+    "created": "2025-09-04T05:27:03.168Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "65641e75-8b9d-44d3-8e13-b97acf48aa33",
+  "fields": {
+    "name": "Flask",
+    "created": "2025-11-19T11:37:26.173Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "683abd1c-7727-48b7-8a93-95ef810a059d",
+  "fields": {
+    "name": "Express",
+    "created": "2025-11-19T11:35:00.920Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "6a62396c-a989-48e7-b2e2-5b0cb54f8187",
+  "fields": {
+    "name": "Angular",
+    "created": "2025-11-19T11:33:59.125Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "7282a475-1a2b-4b9d-8c3b-c6557daa8bea",
+  "fields": {
+    "name": "Azure",
+    "created": "2025-11-19T11:36:16.174Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "7c3d0ab5-cbf2-4f49-86b4-f513614720af",
+  "fields": {
+    "name": "c++",
+    "created": "2025-09-04T05:28:14.211Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "8d50ad89-4884-4bcc-912c-4536391c2ddf",
+  "fields": {
+    "name": "Kubernetes",
+    "created": "2025-11-19T11:35:59.917Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "8e29fb70-decc-459f-89c2-a5f8ff18762e",
+  "fields": {
+    "name": "HTML/CSS",
+    "created": "2025-11-19T11:36:41.995Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "94dc00b6-9689-4045-8e96-4543536e4058",
+  "fields": {
+    "name": "JavaScript",
+    "created": "2025-11-19T11:36:33.806Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "9f89e721-39af-48bf-b9b9-5510f3c0eb38",
+  "fields": {
+    "name": "Tailwind CSS",
+    "created": "2025-11-19T11:36:58.477Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "a54c9f1c-d2bc-4568-8936-a7c01ea87ce3",
+  "fields": {
+    "name": "Node.js",
+    "created": "2025-11-19T11:34:23.543Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "a58d7c43-bd66-417e-85ba-c846f0eae49e",
+  "fields": {
+    "name": "Redis",
+    "created": "2025-11-19T11:35:43.645Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "a6ee68e7-79fa-4e46-b20a-0d8281fbfda4",
+  "fields": {
+    "name": "MongoDB",
+    "created": "2025-11-19T11:35:19.637Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "bfc6b8b4-0982-477d-95bc-35244525d118",
+  "fields": {
+    "name": "Docker",
+    "created": "2025-11-19T11:35:51.888Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "c1d5caef-3d1f-430c-bbc6-99a76d3c3c43",
+  "fields": {
+    "name": "MySQL",
+    "created": "2025-11-19T11:35:36.129Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "c7cca73b-5d3b-4efa-bda3-17207e99e696",
+  "fields": {
+    "name": "Vue.js",
+    "created": "2025-11-19T11:33:41.711Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "cbfee315-79f4-4220-8715-db4e86f3acfa",
+  "fields": {
+    "name": "Bootstrap",
+    "created": "2025-11-19T11:36:50.050Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "e13c92f6-7d89-461e-90e0-71647ca74090",
+  "fields": {
+    "name": "Git",
+    "created": "2025-11-19T11:37:43.788Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "e858eb2a-4318-4ff0-8d54-63622eb8b9b1",
+  "fields": {
+    "name": "Java",
+    "created": "2025-09-04T05:27:19.692Z"
+  }
+},
+{
+  "model": "projects.tag",
+  "pk": "f5a156ec-f779-431d-9d78-2ffa976e6356",
+  "fields": {
+    "name": "Next.js",
+    "created": "2025-11-19T11:38:24.242Z"
+  }
+},
+{
+  "model": "users.profile",
+  "pk": "2d70f506-38df-467d-b10d-cd6f033a6d2f",
+  "fields": {
+    "user": [
+      "rahulkumar"
+    ],
+    "name": "Rahul Kumar",
+    "email": "rahul.kumar@example.com",
+    "username": "rahulkumar",
+    "location": "Mumbai, India",
+    "short_intro": "Full-stack developer passionate about building scalable web applications",
+    "bio": "Experienced developer with 5+ years in web development. Specialized in React, Node.js, and Python. Love solving complex problems and building user-friendly applications.",
+    "profile_image": "profiles/user-default.png",
+    "social_github": "https://github.com/rahulkumar",
+    "social_twitter": "https://twitter.com/rahulkumar",
+    "social_linkedin": "https://linkedin.com/in/rahulkumar",
+    "social_youtube": null,
+    "social_website": "https://rahulkumar.dev",
+    "created": "2025-11-18T22:00:13.164Z"
+  }
+},
+{
+  "model": "users.profile",
+  "pk": "530555fb-0da7-473c-ac65-0f5495c161e8",
+  "fields": {
+    "user": [
+      "priyasharma"
+    ],
+    "name": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "username": "priyasharma",
+    "location": "Mumbai, India",
+    "short_intro": "Full-stack developer specializing in React and Node.js",
+    "bio": "Passionate software engineer with 4 years of experience building modern web applications. Expert in JavaScript ecosystem with strong focus on creating scalable and maintainable code. Love working on challenging projects that push the boundaries of web technology.",
+    "profile_image": "profiles/user-default.png",
+    "social_github": "https://github.com/priyasharma",
+    "social_twitter": null,
+    "social_linkedin": "https://linkedin.com/in/priya-sharma-dev",
+    "social_youtube": null,
+    "social_website": null,
+    "created": "2025-11-18T22:14:26.605Z"
+  }
+},
+{
+  "model": "users.profile",
+  "pk": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+  "fields": {
+    "user": [
+      "Hemanth"
+    ],
+    "name": "Hemanth Kumar",
+    "email": "hemanthkumar@gmail.com",
+    "username": "Hemanth",
+    "location": "Hyderabad",
+    "short_intro": "Technical Architect",
+    "bio": "A technical architect is a senior IT professional responsible for designing, developing, and maintaining an organization's technology architecture, ensuring that solutions meet both technical and business requirements while being scalable for future growth.",
+    "profile_image": "profiles/pexels-creationhill-1681010.jpg",
+    "social_github": "https://github.com/hemanth",
+    "social_twitter": "https://twitter.com/hemanth",
+    "social_linkedin": "https://linkedin.com/in/hemanth",
+    "social_youtube": "https://youtube.com/@hemanth",
+    "social_website": "https://hemanth.dev",
+    "created": "2025-11-13T11:58:56.145Z"
+  }
+},
+{
+  "model": "users.profile",
+  "pk": "7fa0634d-78c1-4113-8a6c-35862f97dc93",
+  "fields": {
+    "user": [
+      "anjalipatel"
+    ],
+    "name": "Anjali Patel",
+    "email": "anjali.patel@example.com",
+    "username": "anjalipatel",
+    "location": "Delhi, India",
+    "short_intro": "Frontend developer specializing in React and modern JavaScript",
+    "bio": "Creative developer with 3+ years experience in frontend technologies. Passionate about UI/UX and creating beautiful, responsive web applications.",
+    "profile_image": "profiles/user-default.png",
+    "social_github": "https://github.com/anjalipatel",
+    "social_twitter": "https://twitter.com/anjalipatel",
+    "social_linkedin": "https://linkedin.com/in/anjalipatel",
+    "social_youtube": null,
+    "social_website": null,
+    "created": "2025-11-18T22:03:44.866Z"
+  }
+},
+{
+  "model": "users.profile",
+  "pk": "d6f2213e-85d3-4cca-956d-87d123b07e90",
+  "fields": {
+    "user": [
+      "vikramsingh"
+    ],
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "username": "vikramsingh",
+    "location": "Bangalore, India",
+    "short_intro": "Backend developer specialized in Python and Django",
+    "bio": "Technical Architect and Software Developer with 5+ years of experience in Python, Django, and SQL. Specialized in building scalable web applications and backend systems. Passionate about gaming technology, cinematography, and exploring new development frameworks. Based in Hyderabad, India, with expertise in Linux administration and Big Data technologies.",
+    "profile_image": "profiles/user-default.png",
+    "social_github": "https://github.com/vikramsingh",
+    "social_twitter": null,
+    "social_linkedin": "https://linkedin.com/in/vikramsingh-dev",
+    "social_youtube": "https://youtube.com/@vikramsinghtech",
+    "social_website": null,
+    "created": "2025-11-18T22:06:34.593Z"
+  }
+},
+{
+  "model": "users.profile",
+  "pk": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+  "fields": {
+    "user": [
+      "Rajeev"
+    ],
+    "name": "Rajeev Pamu",
+    "email": "rajeevpamu@gmail.com",
+    "username": "Rajeev",
+    "location": "Hyderabad",
+    "short_intro": "Developer",
+    "bio": "If writing hundreds of lines of complicated code sounds more appealing than writing a short paragraph about yourself, join the club. Writing a succinct bio that encapsulates who you are and what you’ve accomplished is tricky. But with a few strategies, even the most writing-averse programmers can pull it off.",
+    "profile_image": "profiles/22437186_6SE1fU5.jpg",
+    "social_github": "https://github.com/rajeevpamu",
+    "social_twitter": "https://twitter.com/rajeevpamu",
+    "social_linkedin": "https://linkedin.com/in/rajeev-pamu",
+    "social_youtube": "https://youtube.com/@rajeevpamu",
+    "social_website": "https://rajeevpamu.dev",
+    "created": "2025-11-13T11:37:26.097Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "1a2d5921-a202-4c62-a11a-fa3b914edb11",
+  "fields": {
+    "owner": "7fa0634d-78c1-4113-8a6c-35862f97dc93",
+    "name": "Python",
+    "description": "Backend Rest API configuration",
+    "created": "2025-11-19T14:55:18.994Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "1daa2b5f-8f9c-4445-81af-60e00cfd310b",
+  "fields": {
+    "owner": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "name": "DOP",
+    "description": "",
+    "created": "2025-11-14T11:55:38.762Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "1ec473ae-f8e7-4158-a546-9b09785924c7",
+  "fields": {
+    "owner": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "name": "Docker",
+    "description": "Platform for developing, shipping, and running applications in containers. Ensures consistency across environments.",
+    "created": "2025-11-13T12:07:53.805Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "24ce2739-614b-4c30-921c-3bec0d519389",
+  "fields": {
+    "owner": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "name": "Django",
+    "description": "High-level Python web framework that enables rapid development of secure and maintainable websites.",
+    "created": "2025-11-13T12:04:29.443Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "2abe45f9-5e1a-4f5f-b66d-416e951834b3",
+  "fields": {
+    "owner": "2d70f506-38df-467d-b10d-cd6f033a6d2f",
+    "name": "AWS",
+    "description": "Cloud Architecture",
+    "created": "2025-11-19T14:54:48.416Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "4112706e-5815-4cf9-ae34-30a2bc124813",
+  "fields": {
+    "owner": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "name": "SQL",
+    "description": "Structured Query Language for managing and manipulating relational databases. Essential for data storage and retrieval.",
+    "created": "2025-11-13T12:06:50.049Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "49b3d523-248d-4179-a96f-031201ddc9bb",
+  "fields": {
+    "owner": "d6f2213e-85d3-4cca-956d-87d123b07e90",
+    "name": "Java",
+    "description": "Spring Boot Framework Designer",
+    "created": "2025-11-19T14:56:37.827Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "79d3b684-11c9-4896-808e-d27c59910798",
+  "fields": {
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "name": "AWS",
+    "description": "Amazon Web Services - comprehensive cloud computing platform offering compute power, storage, and various cloud services.",
+    "created": "2025-11-13T12:08:02.447Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "90fc0c8a-079a-4aeb-92fc-13c9da12c578",
+  "fields": {
+    "owner": "530555fb-0da7-473c-ac65-0f5495c161e8",
+    "name": "Davinci Pro",
+    "description": "Film Editor",
+    "created": "2025-11-19T14:57:20.535Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "926b9f4b-6c8d-4149-b0e7-e11a6aec5a2f",
+  "fields": {
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "name": "JavaScript",
+    "description": "Programming language primarily used for creating interactive web pages and dynamic web applications.",
+    "created": "2025-11-13T12:05:20.932Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "c923770a-a2a9-4079-b904-cc1bdcf852bd",
+  "fields": {
+    "owner": "7fa0634d-78c1-4113-8a6c-35862f97dc93",
+    "name": "Docker",
+    "description": "DevOps Engineer",
+    "created": "2025-11-19T14:55:41.272Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "ce8dbe1e-91b9-487b-bdd8-f3c5bb90c96e",
+  "fields": {
+    "owner": "2d70f506-38df-467d-b10d-cd6f033a6d2f",
+    "name": "Python",
+    "description": "Developer",
+    "created": "2025-11-19T14:54:21.880Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "cf673c14-50b0-42c7-9d31-08ea9ec3abaa",
+  "fields": {
+    "owner": "7fa0634d-78c1-4113-8a6c-35862f97dc93",
+    "name": "MLOPS",
+    "description": "Machine Learning Deployment",
+    "created": "2025-11-19T14:56:03.310Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "dd740c5f-cf4f-4304-8e37-90a3448011b5",
+  "fields": {
+    "owner": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "name": "Git",
+    "description": "Distributed version control system for tracking changes in source code during software development.",
+    "created": "2025-11-13T12:07:34.033Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "f0926cbb-6343-4584-a587-b6ad9ceb7326",
+  "fields": {
+    "owner": "530555fb-0da7-473c-ac65-0f5495c161e8",
+    "name": "Final Cut Pro",
+    "description": "DOP, Assistant cinematography and Editing",
+    "created": "2025-11-19T14:57:46.679Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "fea49008-6d37-4593-92cd-21925496e22d",
+  "fields": {
+    "owner": "d6f2213e-85d3-4cca-956d-87d123b07e90",
+    "name": "SQL",
+    "description": "Oracle Advanced Developer",
+    "created": "2025-11-19T14:56:18.787Z"
+  }
+},
+{
+  "model": "users.skill",
+  "pk": "ff348290-fc14-4390-b98b-278a8c22a302",
+  "fields": {
+    "owner": "d6f2213e-85d3-4cca-956d-87d123b07e90",
+    "name": "React",
+    "description": "Front End Development",
+    "created": "2025-11-19T14:57:00.545Z"
+  }
+},
+{
+  "model": "users.message",
+  "pk": "64e702eb-a1e4-4901-999a-1a3069e1e7a3",
+  "fields": {
+    "sender": "e393fb72-3ef5-475e-be8c-ef69626525ec",
+    "recipient": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "name": "Rajeev Pamu",
+    "email": "rajeevpamu@gmail.com",
+    "subject": "Message 1",
+    "body": "Body of Message 1",
+    "is_read": true,
+    "created": "2025-11-24T08:56:28.697Z"
+  }
+},
+{
+  "model": "users.message",
+  "pk": "be171c70-cfe2-48ae-933d-c249ded6086d",
+  "fields": {
+    "sender": null,
+    "recipient": "6161e2c9-efb6-4dd1-aed6-61d85ccc2744",
+    "name": "Sairam",
+    "email": "psran999@gmail.com",
+    "subject": "Message 2",
+    "body": "Body of message 2",
+    "is_read": true,
+    "created": "2025-11-24T09:03:18.738Z"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 325,
+  "fields": {
+    "action_time": "2025-11-24T08:25:18.292Z",
+    "user": [
+      "Rajeev"
+    ],
+    "content_type": [
+      "users",
+      "profile"
+    ],
+    "object_id": "de67a348-44fa-4b09-9276-ed2774662637",
+    "object_repr": "sairam",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 326,
+  "fields": {
+    "action_time": "2025-11-24T08:55:49.153Z",
+    "user": [
+      "Hemanth"
+    ],
+    "content_type": [
+      "users",
+      "message"
+    ],
+    "object_id": "93d11456-4400-42fc-aa47-b12e3d7ba8fa",
+    "object_repr": "Hi",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 327,
+  "fields": {
+    "action_time": "2025-11-24T08:55:49.153Z",
+    "user": [
+      "Hemanth"
+    ],
+    "content_type": [
+      "users",
+      "message"
+    ],
+    "object_id": "9c5af562-bb5d-404f-bc2b-5ee453231b97",
+    "object_repr": "Hi",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 328,
+  "fields": {
+    "action_time": "2025-11-24T08:55:49.153Z",
+    "user": [
+      "Hemanth"
+    ],
+    "content_type": [
+      "users",
+      "message"
+    ],
+    "object_id": "ba24d87c-6a1f-4560-bae1-4cb548c1ce51",
+    "object_repr": "Do you want to get a coffee",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 329,
+  "fields": {
+    "action_time": "2025-11-24T08:55:49.153Z",
+    "user": [
+      "Hemanth"
+    ],
+    "content_type": [
+      "users",
+      "message"
+    ],
+    "object_id": "de1ed1ea-7abe-4c7c-9556-9e42690dc4f4",
+    "object_repr": "Can we go out for lunch together",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 330,
+  "fields": {
+    "action_time": "2025-11-24T08:55:49.153Z",
+    "user": [
+      "Hemanth"
+    ],
+    "content_type": [
+      "users",
+      "message"
+    ],
+    "object_id": "4ccec764-503a-4584-85b9-a5b4d2ad7c00",
+    "object_repr": "How's work bro",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 331,
+  "fields": {
+    "action_time": "2025-11-24T08:55:49.153Z",
+    "user": [
+      "Hemanth"
+    ],
+    "content_type": [
+      "users",
+      "message"
+    ],
+    "object_id": "505ac93e-ffe2-4c8b-9038-cde9a9e67a2e",
+    "object_repr": "How's life bro",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 332,
+  "fields": {
+    "action_time": "2025-11-24T08:56:28.700Z",
+    "user": [
+      "Hemanth"
+    ],
+    "content_type": [
+      "users",
+      "message"
+    ],
+    "object_id": "64e702eb-a1e4-4901-999a-1a3069e1e7a3",
+    "object_repr": "Message 1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 333,
+  "fields": {
+    "action_time": "2025-11-24T09:03:18.741Z",
+    "user": [
+      "Hemanth"
+    ],
+    "content_type": [
+      "users",
+      "message"
+    ],
+    "object_id": "be171c70-cfe2-48ae-933d-c249ded6086d",
+    "object_repr": "Message 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+}
+]
